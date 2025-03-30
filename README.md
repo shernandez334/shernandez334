@@ -6,12 +6,11 @@ Backend developer with a focus on Java, Spring Boot, and Cybersecurity. Passiona
 
 ⚡ Tech Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+</p>
                               
           | SQL 🗄️ | JavaScript 📜🚀 Frameworks: Spring Boot 🌱🛠️ Databases: MongoDB 🍃 | MySQL 🏛️🔐 Cybersecurity: Secure coding 🔏 | Authentication 🔑 | API security 🛡️🐳 Tools: Docker 🐳 | Git 🔗 | Postman 📬 | Maven ⚙️
 
