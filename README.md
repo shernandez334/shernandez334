@@ -8,10 +8,11 @@ Backend developer with a focus on Java, Spring Boot, and Cybersecurity. Passiona
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-                    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+                              
           | SQL 🗄️ | JavaScript 📜🚀 Frameworks: Spring Boot 🌱🛠️ Databases: MongoDB 🍃 | MySQL 🏛️🔐 Cybersecurity: Secure coding 🔏 | Authentication 🔑 | API security 🛡️🐳 Tools: Docker 🐳 | Git 🔗 | Postman 📬 | Maven ⚙️
 
 
