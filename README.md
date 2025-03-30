@@ -27,7 +27,7 @@ I believe in **continuous learning** and constantly improving my skills to keep 
 
 ## 📫 Connect
 
-<p align="center">
+<p align="left">
   🔗 <a href="https://linkedin.com/in/santiago-hernandez-beltran" target="_blank"><b>LinkedIn</b></a> |
   📧 <a href="mailto:santiago.hbeltran98@gmail.com"><b>Email</b></a>
 </p>
