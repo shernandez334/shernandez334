@@ -10,7 +10,7 @@ I believe in **continuous learning** and constantly improving my skills to keep 
 
 ## ⚡ Tech Skills
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="margin: 10px;"/>
@@ -20,6 +20,10 @@ I believe in **continuous learning** and constantly improving my skills to keep 
 </p>
 
 ---
+
+## 🏆 My GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shernandez334&show_icons=true&theme=github_dark)
+
 
 ## 📫 Connect
 
