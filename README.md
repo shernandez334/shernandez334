@@ -1,47 +1,16 @@
-<h1 align="left">SANTIAGO HERNANDEZ BELTRAN</h1>
+# 💫 About Me:
+- ⚙️ Backend Developer focused on building secure, scalable applications with Java and Spring Boot.  <br>- 🔐 Passionate about cybersecurity, with an emphasis on secure coding.  <br>- 💻 Currently learning cybersecurity.  <br>- 🛡️ Committed to best practices in software development and security.  <br>- 🤝 Always open to collaboration and tackling innovative projects. 
 
 
-<h3 align="left">🚀 Backend Developer | 🔐 Cybersecurity Enthusiast</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/santiago-hernandez-beltran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santiago.hbeltran98@gmail.com) 
 
-As a **Backend Developer** with a focus on **Java**, **Spring Boot**, and **Cybersecurity**, I am passionate about designing and building **secure**, **scalable**, and **efficient** applications. My goal is to create systems that are not only robust but also **secure** and **easy to maintain**.
-
-I embrace **continuous learning** to stay ahead in the ever-evolving tech landscape. Whether it's designing backend services, ensuring security best practices, or refining system architecture, I thrive on challenges that push me to innovate and deliver quality solutions.
-
----
-
-## ⚡ Tech Skills
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-plain.svg" width="50" height="50" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" style="margin: 10px;"/>
-</p>
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shernandez334&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shernandez334&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shernandez334&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🏆 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shernandez334&show_icons=true&theme=github_dark)
-
-
-## 🔐 My Cybersecurity Journey
-
-I am also deeply passionate about **Cybersecurity** and constantly enhance my skills through hands-on learning. I enjoy exploring new ethical hacking techniques and am committed to improving security in everything I build. Here are some key areas of my journey:
-
-### 🛡️ **Recent TryHackMe Challenges**:
-- **[Metasploit: Introduction](https://tryhackme.com/room/metasploitintroduction)**  
-  Dive into penetration testing using Metasploit, learning exploitation and scanning techniques.
-  
-- **[Web Application Hacking](https://tryhackme.com/room/webapplicationhacking)**  
-  Explore common vulnerabilities in web apps and how to secure them.
-
-- **[Linux Fundamentals](https://tryhackme.com/room/linuxfundamentals)**  
-  Master essential Linux commands and security fundamentals for ethical hacking.
-## 📫 Connect
-
-<p align="left">
-  🔗 <a href="https://linkedin.com/in/santiago-hernandez-beltran" target="_blank"><b>LinkedIn</b></a> |
-  📧 <a href="mailto:santiago.hbeltran98@gmail.com"><b>Email</b></a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=shernandez334&icon=0&color=0)](https://visitcount.itsvg.in)
