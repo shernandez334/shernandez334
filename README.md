@@ -5,7 +5,8 @@
 
 As a **Backend Developer** with a focus on **Java**, **Spring Boot**, and **Cybersecurity**, I am passionate about designing and building **secure**, **scalable**, and **efficient** applications. My goal is to create systems that are not only robust but also **secure** and **easy to maintain**.
 
-I believe in **continuous learning** and constantly improving my skills to keep up with evolving technologies. From developing backend services to ensuring code security, I enjoy challenges that improve both the user experience and the underlying architecture. Always open to collaboration and excited about working on innovative projects.
+I embrace **continuous learning** to stay ahead in the ever-evolving tech landscape. Whether it's designing backend services, ensuring security best practices, or refining system architecture, I thrive on challenges that push me to innovate and deliver quality solutions.
+
 ---
 
 ## ⚡ Tech Skills
