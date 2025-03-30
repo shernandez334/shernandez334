@@ -1,12 +1,10 @@
-<h1 align="center">🏆 SANTIAGO HERNANDEZ BELTRAN</h1>
+<h1 align="center">SANTIAGO HERNANDEZ BELTRAN</h1>
 
-<h3 align="center">🚀 Backend Developer | 🔐 Cybersecurity Enthusiast</h3>
+<h3 align="left">🚀 Backend Developer | 🔐 Cybersecurity Enthusiast</h3>
 
-<p align="center">
-  Backend developer with a focus on <b>Java, Spring Boot, and Cybersecurity</b>. <br>
-  Passionate about building <b>secure, scalable, and efficient</b> applications. Always learning and improving.
-</p>
+As a **Backend Developer** with a focus on **Java**, **Spring Boot**, and **Cybersecurity**, I am passionate about designing and building **secure**, **scalable**, and **efficient** applications. My goal is to create systems that are not only robust but also **secure** and **easy to maintain**.
 
+I believe in **continuous learning** and constantly improving my skills to keep up with evolving technologies. From developing backend services to ensuring code security, I enjoy challenges that improve both the user experience and the underlying architecture. Always open to collaboration and excited about working on innovative projects.
 ---
 
 ## ⚡ Tech Skills
